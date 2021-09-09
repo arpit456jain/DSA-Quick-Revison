@@ -289,3 +289,15 @@ It occurs when the picked pivot is an extreme (smallest or largest) element. Usu
 
 ### 50. What is the maximum number of nodes in a binary tree of height k?
 Ans: The maximum nodes in a binary tree are: 2k+1-1 where k >= 1.
+
+## Need Help in [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
+## DSA path And Important Questions [click here](https://github.com/arpit456jain/DSA-Path-And-Important-Questions)
+## 11 Weeks Workshop on Data Structures and Algorithms Solution in [python](https://github.com/arpit456jain/gfg-11-Weeks-Workshop-on-DSA-in-Python)
+## 11 Weeks Workshop on Data Structures and Algorithms Solution in [C++](https://github.com/arpit456jain/gfg-11-Weeks-Workshop-on-DSA-in-CPP)
+
+
+## 💬Join Our CodeSmashers Community
+
+Join - https://discord.gg/gtYUZQSjTt
+
+Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> to this repo 
