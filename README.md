@@ -39,13 +39,13 @@ Here is a list of some of the best resources that can help you learn the inside-
 |||
 |--|--|
 |Books|Data Structures and Algorithms Made Easy Narshima Karumanchi. <br>Introduction to Algorithms (Cormen)|
-|Youtube Channels|Abdul Bari <br>Tushar Roy<br>Apni Kaksha <br> Neso Academy <br> Jenny’s Lectures|
+|Youtube Channels|Abdul Bari <br>Tushar Roy<br>Apni Kaksha <br> Neso Academy <br> Jenny’s Lectures <br> Kunal Kushwaha|
 |Online Sites	|Udemy <br> Coursera <br> GeeksforGeeks|
 
 <br>
 Now, let’s look at some of the important DSA questions.
 
-## Top 50 must-know DSA questions and answers
+## Top 51 must-know DSA questions and answers
 ### 1. What are data structures?
 A data structure is a way of storing and organization of data values for further use in an application. Examples include Graph, Trees, Arrays, Linked List, etc.
 
@@ -289,6 +289,13 @@ It occurs when the picked pivot is an extreme (smallest or largest) element. Usu
 
 ### 50. What is the maximum number of nodes in a binary tree of height k?
 Ans: The maximum nodes in a binary tree are: 2k+1-1 where k >= 1.
+
+### 51. What is the difference between the 4 different types of linked lists?
+Ans: 1.Single linked list consist of nodes that has member which points to the address of the next node and there is no provision of coming back to the previous node.<br>
+<br>
+     2.Double linked list consists of nodes that has members to point to the address of the previous and next node along with the data of the list. The first node's previous        member is NULL and last node's next member is NULL. Here, the list can be traversed in both directions.<br><br>
+     3.Circular Linked list consists of nodes in which the last node's next member of the list points to the address of the first node and no previous member is present in          the node. It is a single circular linked list.<br><br>
+     4.Double circular linked list consists of both previous and next member in node and the next of last node points to address of the first node and previous of first node        points to the address of the last node.<br><br>
 
 ## Need Help in [Web-Development-Path-And-Resources](https://github.com/arpit456jain/Web-Development-Path-And-Resources)
 ## DSA path And Important Questions [click here](https://github.com/arpit456jain/DSA-Path-And-Important-Questions)
